@@ -1,0 +1,17 @@
+{
+  "name": "node-calculator",
+  "version": "1.0.0",
+  "description": "A simple calculator module with comprehensive tests",
+  "main": "calculator.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch",
+    "test:coverage": "jest --coverage"
+  },
+  "keywords": ["calculator", "math", "node"],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+}
